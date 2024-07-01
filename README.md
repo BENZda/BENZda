@@ -11,10 +11,11 @@ Passionate highschooler into Computer Science. I enjoy learning and working on e
 - ⚡ Fun fact: Started with computers at age 7.
 
 ## 🛠️ Skills
+#### Languages
+![Languages](https://skillicons.dev/icons?i=python,javascript,nextjs,cpp,java,mysql)
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java) ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+#### Tools
+![Tools](https://skillicons.dev/icons?i=vscode,github,figma,git)
 
 ## 📂 Projects
 
