@@ -12,7 +12,7 @@ Passionate highschooler into Computer Science. I enjoy learning and working on e
 
 ## 🛠️ Skills
 #### Languages
-![Languages](https://skillicons.dev/icons?i=python,javascript,nextjs,cpp,java,mysql)
+![Languages](https://skillicons.dev/icons?i=python,javascript,react,nextjs,cpp,java,mysql)
 
 #### Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,github,figma,git)
